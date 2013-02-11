@@ -4,11 +4,15 @@ Document the process followed to get to know python
 
 ## Good Reads
 List suggested in [python wiki] [3]
+
 Interesting  Guide at [tutorialspoint] [4] providing installation instructions and thorough description of the language features
+
 
 ## Which Python Version to choose
 There is an [article] [2] describing pros and cons of using Python 2.x or Python 3.x
-Moved with 2.x since its more main stream, keeping an eye on the changes introduced in 3.x to make a later migration easier. 
+
+Moved with 2.x since its more main stream, keeping an eye on the changes introduced in 3.x to make a later migration easier.
+
 
 ## Set up development environment
 ### Install python 
