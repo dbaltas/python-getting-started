@@ -2,11 +2,13 @@
 
 Document the process followed to get to know python
 
+[python.org] [1] is the official python site
 ## Good Reads
 List suggested in [python wiki] [3]
 
 Interesting  Guide at [tutorialspoint] [4] providing installation instructions and thorough description of the language features
 
+[diveintopython.net] [5] offered as pdf and html, lists many language features.
 
 ## Which Python Version to choose
 There is an [article] [2] describing pros and cons of using Python 2.x or Python 3.x
@@ -27,8 +29,8 @@ make &&
 sudo make altinstall
 ```
 
-## Resources
 [1]: http://python.org/ "Official Python Site"
 [2]: http://wiki.python.org/moin/Python2orPython3 "Python 2 or 3?"
 [3]: http://wiki.python.org/moin/BeginnersGuide/Programmers "Tutorials/Websites/Books"
 [4]: http://www.tutorialspoint.com/python/index.htm "Getting Started Guide"
+[5]: http://www.diveintopython.net/ "Dive Into Python"
